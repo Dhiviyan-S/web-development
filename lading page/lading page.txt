@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+        </head><body><center>
+        <h1> Instagram</h1>
+
+        </center>
+        <hr>
+
+    
+
+    <body bgcolor="black" style=" color:white;">
+        <center>
+        <img src="./dhivi.landingpage_files/img.jpg" width="100px">
+        <p>Instagram was originally distinguished by allowing content to be framed only in a square (1:1) aspect ratio of 640 pixels to match the display width of the iPhone at the time. In 2015, this restriction was eased with an increase to 1080 pixels. It also added messaging features, the ability to include multiple images or videos in a single post, and a Stories feature—similar to its main competitor, Snapchat, which allowed users to post their content to a sequential feed, with each post accessible to others for 24 hours. As of January 2019, Stories is used by 500 million people daily.[8]</p>
+        <a href="https://www.instagram.com/" font.size="30"> Instagram</a>
+        </center>
+
+
+        <img src="./dhivi.landingpage_files/download.jpg">
+        <ul>
+            <li>Instagram is easy to use, allowing users to post content from their smartphone.</li>
+            <li>Instagram can help users reach new audiences, including millennials.</li>
+            <li>Instagram can help users grow brand awareness.</li>
+            <li>Instagram can help users build a community around their brand.</li>
+            
+        </ul>
+        <right>
+        <img src="./dhivi.landingpage_files/img.png" width="300px">
+        </right>
+        <ul>
+            <li>Cyberbullying: Users may experience cyberbullying on Instagram.</li>
+            <li> Grooming: Users may be groomed on Instagram.</li>
+            <li>Policy and interface changes: Users may be concerned about changes to Instagram's policies and interface.</li>
+            <li>Alleged censorship: Users may be concerned about Instagram's alleged censorship.</li>
+        </ul>
+       <hr>
+       <img src="./dhivi.landingpage_files/img.webp" width="480px">
+       <p> The increasing number of Instagram users worldwide year after year makes the photo-sharing app an extremely attractive and effective marketing site for brands. As it stands, it’s one of the most popular social media platforms in the world and also one that consumers spend the most amount of time on every day.
+
+
+       </p>
+      <hr>
+       
+        </body>
+        </html>
